@@ -2,8 +2,8 @@
     "host": "https://build.bancataydu.me/bundles/000_dev",
     "BC_PACKAGE": {
         "enable": true,
-        "web": "44179",
-        "native": "f6d78"
+        "web": "8523d",
+        "native": "0c58b"
     },
     "GOW_PACKAGE": {
         "enable": true,
