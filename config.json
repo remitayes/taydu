@@ -1,13 +1,13 @@
 {
     "host": "https://build.bancataydu.me/bundles",
-    "BC_PACKAGE": {
-        "enable": true,
-        "web": "8523d",
-        "native": "0c58b"
-    },
     "GOW_PACKAGE": {
         "enable": true,
-        "web": "09ae1",
-        "native": "e2992"
+        "native": "a163e",
+        "web": "a7ac2"
+    },
+    "BC_PACKAGE": {
+        "enable": true,
+        "native": "0c58b",
+        "web": "8523d"
     }
 }
