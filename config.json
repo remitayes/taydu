@@ -1,13 +1,8 @@
 {
-    "host": "https://build.bancataydu.me/bundles",
-    "GOW_PACKAGE": {
-        "enable": true,
-        "native": "a163e",
-        "web": "a7ac2"
-    },
+    "host": "https://csg.banca.center:80/file/bundles",
     "BC_PACKAGE": {
         "enable": true,
-        "native": "b9c04",
-        "web": "84c96"
+        "native": "57959",
+        "web": "2c955"
     }
 }
