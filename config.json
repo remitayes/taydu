@@ -2,8 +2,8 @@
     "host": "https://csg.banca.center:80/file/bundles",
     "BC_PACKAGE": {
         "enable": true,
-        "native": "14d2e",
-        "web": "34c6f"
+        "native": "975f2",
+        "web": "97a8f"
     },
     "GOW_PACKAGE": {
         "enable": true,
